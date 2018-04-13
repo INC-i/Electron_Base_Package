@@ -1,0 +1,7 @@
+#!/usr/bin/bash
+echo "# Electron_Base_Package" > README.md
+git init
+git add *
+git commit -m "First commit by Mitsuyasu Yamamoto"
+git remote add origin https://github.com/INC-i/Electron_Base_Package.git
+git push -u origin master

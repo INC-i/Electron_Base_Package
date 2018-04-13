@@ -1,0 +1,8 @@
+{
+  "name": "electron_test_app",
+  "productName": "Electron test app",
+  "version": "1.0.0",
+  "main": "js/main/index.js",
+  "description": "Test app",
+  "author": "Mitsuyasu Yamamoto"
+}
